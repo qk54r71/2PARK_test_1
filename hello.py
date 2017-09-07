@@ -6,3 +6,4 @@ print("Tell me your mind")
 print("Third words")
 print("Thrid words2")
 print("Tell my world")
+print("VisualStudio test_1");
